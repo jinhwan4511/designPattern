@@ -1,3 +1,5 @@
+package builder;
+
 public class Member {
 
     private String name;            //필수

@@ -1,3 +1,6 @@
+package builder;
+
+import builder.Member;
 import org.junit.*;
 
 import static org.assertj.core.api.Assertions.assertThat;
